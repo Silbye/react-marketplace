@@ -1,6 +1,6 @@
 {
-  "homepage": "https://Silbye.github.io/react-marketplace",
-  "name": "name-of-your-project",
+  "homepage": "https://silbye.github.io/react-marketplace",
+  "name": "react-marketplace",
   "private": true,
   "version": "0.0.0",
   "type": "module",
