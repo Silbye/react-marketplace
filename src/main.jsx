@@ -17,6 +17,7 @@ const router = createBrowserRouter([
     element: <Item />,
   },
   { path: "*", element: <Home /> },
+  { basename: "/react-marketplace" },
 ]);
 
 ReactDOM.createRoot(document.getElementById("root")).render(
