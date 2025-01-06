@@ -5,7 +5,7 @@ import "./ArticleCard.css";
 
 export default function ArticleCard(props) {
   return (
-    <Link to={"article/" + props.article.id} className="content-cards__item">
+    <Link to={"/article/" + props.article.id} className="content-cards__item">
       <div className="content-cards__item--img">
         <img src={props.article.imageSmall} alt="image" />
       </div>
