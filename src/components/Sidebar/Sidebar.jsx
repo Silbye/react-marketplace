@@ -7,12 +7,12 @@ export default function Sidebar() {
         <h4 className="content-sidebar__info--title">Сервисы и услуги</h4>
         <div className="content-sidebar__info__wrapper">
           <div className="content-sidebar__info__item">
-            <img src="img/delivery.svg" alt="" />
+            <img src="/img/delivery.svg" alt="" />
             <h5>Доставка</h5>
             <p>Проверка при получении и возможность бесплатно вернуть товар</p>
           </div>
           <div className="content-sidebar__info__item">
-            <img src="img/sedan.svg" alt="" />
+            <img src="/img/sedan.svg" alt="" />
             <h5>Автотека</h5>
             <p>
               Отчёт с историей авто: пробег, владельцы, сведения о залоге, ДТП и
@@ -20,7 +20,7 @@ export default function Sidebar() {
             </p>
           </div>
           <div className="content-sidebar__info__item">
-            <img src="img/love.svg" alt="" />
+            <img src="/img/love.svg" alt="" />
             <h5>Онлайн-бронирование жилья</h5>
             <p>
               Посуточная аренда квартир и домов: большой выбор вариантов для
